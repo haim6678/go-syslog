@@ -3,7 +3,7 @@ package rfc3164
 import (
 	"time"
 
-	syslog "github.com/haimrubinstein/go-syslog/v3"
+	syslog "github.com/haimrubinstein/go-syslog/v4"
 )
 
 // WithNoPri sets the skip PRI flag to allow messages without PRI header.
