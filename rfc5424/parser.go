@@ -3,7 +3,7 @@ package rfc5424
 import (
 	"sync"
 
-	syslog "github.com/haimrubinstein/go-syslog"
+	syslog "github.com/haimrubinstein/go-syslog/v3"
 )
 
 // parser represent a RFC5424 parser with mutex capabilities.

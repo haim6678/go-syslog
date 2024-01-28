@@ -3,8 +3,8 @@ package rfc5424
 import (
 	"time"
 
-	"github.com/haimrubinstein/go-syslog"
-	"github.com/haimrubinstein/go-syslog/common"
+	"github.com/haimrubinstein/go-syslog/v3"
+	"github.com/haimrubinstein/go-syslog/v3/common"
 )
 
 type syslogMessage struct {
