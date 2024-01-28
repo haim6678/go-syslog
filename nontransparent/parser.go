@@ -3,8 +3,8 @@ package nontransparent
 import (
 	"io"
 
-	syslog "github.com/haimrubinstein/go-syslog/v4"
-	"github.com/haimrubinstein/go-syslog/v4/rfc5424"
+	syslog "github.com/haimrubinstein/go-syslog/v3"
+	"github.com/haimrubinstein/go-syslog/v3/rfc5424"
 	parser "github.com/leodido/ragel-machinery/parser"
 )
 

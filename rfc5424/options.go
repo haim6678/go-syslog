@@ -1,7 +1,7 @@
 package rfc5424
 
 import (
-	syslog "github.com/haimrubinstein/go-syslog/v4"
+	syslog "github.com/haimrubinstein/go-syslog/v3"
 )
 
 // WithNoPri sets the skip PRI flag to allow messages without PRI header.

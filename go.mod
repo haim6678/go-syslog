@@ -1,4 +1,4 @@
-module github.com/haimrubinstein/go-syslog/v4
+module github.com/haimrubinstein/go-syslog/v3
 
 require (
 	github.com/davecgh/go-spew v1.1.1
