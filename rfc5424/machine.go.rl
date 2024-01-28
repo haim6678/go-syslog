@@ -4,8 +4,8 @@ import (
 	"time"
 	"fmt"
 
-	"github.com/haimrubinstein/go-syslog/v3"
-	"github.com/haimrubinstein/go-syslog/v3/common"
+	"github.com/haimrubinstein/go-syslog"
+	"github.com/haimrubinstein/go-syslog/common"
 )
 
 // ColumnPositionTemplate is the template used to communicate the column where errors occur.
